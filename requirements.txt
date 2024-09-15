@@ -1,7 +1,7 @@
 setuptools
 pybit
 pandas
-pandas_ta
 pyarrow
 apprise
-numpy
+numpy==1.26.4
+pandas_ta==0.3.14b0

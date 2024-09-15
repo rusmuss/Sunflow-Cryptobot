@@ -27,6 +27,9 @@ It automatically creates a data folder where it stores a database of all buy tra
 ## Install, configure and run
 
 ### Install dependancies
+
+Python version 3.11
+
 Use pip and requirements.txt file to install dependancies.
 ```
 pip install -r requirements.txt

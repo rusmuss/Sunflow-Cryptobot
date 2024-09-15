@@ -10,6 +10,7 @@
 *copy*
 *.backup
 config*.py
+.python-version
 test*.*
 todo*
 /data
